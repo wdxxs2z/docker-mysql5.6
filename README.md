@@ -1,4 +1,4 @@
-docker-postgresql
+docker-MySql
 =================
 
 This is DockerFile for mysql
